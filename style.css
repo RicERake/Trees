@@ -1,0 +1,47 @@
+.container {
+    background-color:#C9DBB2;
+    padding: 50px; /* Add some padding to create space around the heading */
+  }
+.container {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    
+}
+  
+#paragraph1 {
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    padding-top: 1cm;
+    font-size: larger;
+
+
+
+}
+
+#paragraph2 {
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    padding-top: 1cm;
+    font-size: larger;
+
+    
+}
+
+#paragraph3{
+    padding-top: 0.5cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+.endnote {
+    background-color:#A2A378;
+    padding: 20px; /* Add some padding to create space around the heading */
+  }
+
+  .bkgrnd_img {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQ2C8MPQgOND3g68skK687Sbay23poGKwl7E_ZK-FwBCR1CXnKxB29TOnrGnSuScvvzM&usqp=CAU");
+    background: cover; 
+    background-position: center; /* Position the image at the center of the container */
+  }
+  
